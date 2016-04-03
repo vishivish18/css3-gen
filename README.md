@@ -1,4 +1,4 @@
-###Mean-Minimal (Boilerplate for MEAN Apps, extracted from Mean-Machine)
+###CSS3 Generator
 
 
 
@@ -6,10 +6,8 @@
 
 
 
-This is an extracted minimal version from the mean-machine boilerplate I created, this version contains nothing extra and provides
-just a base to start. I created it for static sites and for projects which need to focus only on the angular part.
-For better static site serving I will create a node-jade combo later.
-
+It contains tools to generate css-code while having live view of the desired result. 
+The site is built using Angular
 
 
 
